@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-exif-objc/Pods-exif-objc-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Mantle/Mantle.framework
+${BUILT_PRODUCTS_DIR}/SYPictureMetadata/SYPictureMetadata.framework
